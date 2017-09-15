@@ -1,0 +1,3 @@
+# Prevents local modules and debug logs from being copied onto the Docker image and possibly overwriting modules installed within the image
+node_modules
+npm-debug.log
